@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CodeMash</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvHint">Enter your Name :</string>
+    <string name="tvText">Your Name is :</string>
+    <string name="buName">Click Me</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="hello_world">Hello Page 2!</string>
+    <string name="action_other">Other</string>
+    <string name="action_exit">Exit</string>
+
+</resources>
